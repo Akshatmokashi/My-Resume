@@ -1,1 +1,2 @@
 # My-Resume
+I am a person with master of engineering (M.E.) degree in the field of computer network and information security. I have a passion for information security field. I have knowledge of security tools like Burpsuite, nmap, metasploit, wireshark. I love to explore this field. I can do web application, network security manual and automated testing. I am also Certified Information Security Consultant (CISC) certified.   
